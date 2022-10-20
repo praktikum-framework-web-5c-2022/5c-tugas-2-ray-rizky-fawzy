@@ -1,0 +1,8 @@
+h4, h1{
+    font-weight: bold;
+}
+
+body{
+    background-image: url('img/bgimg.jpeg');
+    background-size: cover ;
+}
